@@ -1,4 +1,4 @@
-# 🇺🇸 English Version
+English Version
 
 ## 📊 Retail Sales Analysis & Predictive Modeling
 
